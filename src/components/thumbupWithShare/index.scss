@@ -1,0 +1,41 @@
+.thumbup {
+    text-align: center;
+    color: #fff;
+    background-color: #fff;
+    position: relative;
+}
+
+.thumbup-btn {
+    display: inline-block;
+    padding: 10px 40px;
+    background-color: #f78585;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.thumbup-btn:hover {
+    background-color: #f17067;
+}
+
+.middle-circle {
+    height: 36px;
+    width: 36px;
+    border-radius: 18px;
+    line-height: 36px;
+    margin: 3px 0 0 -23px;
+    position: absolute;
+    z-index: 10;
+    color: #000;
+    background-color: #fff;
+}
+
+.share-btn {
+    display: inline-block;
+    padding: 10px 40px;
+    background-color: #5fcec0;
+    cursor: pointer;
+}
+
+.share-btn:hover {
+    background-color: #3bbfaf;
+}

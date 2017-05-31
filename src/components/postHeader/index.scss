@@ -1,0 +1,20 @@
+.header {
+    padding: 10px 15px;
+    background-color: #fff;
+}
+
+.title {
+    margin: 0;
+    font-size: 18px;
+}
+
+.meta {
+    color: #999;
+    font-size: 15px;
+    display: flex;
+    padding: 0;
+    margin: 10px 0 0 -2px;
+    span {
+        margin-right: 15px;
+    }
+}

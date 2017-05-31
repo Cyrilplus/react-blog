@@ -1,0 +1,22 @@
+$themeColor: #D56464;
+
+.container {
+    padding-top: 10px;
+    background-color: $themeColor;
+}
+
+.footer {
+    display: flex;
+    padding: 16px 20px;
+    margin: 0;
+    text-align: center;
+    list-style: none;
+    justify-content: center;
+    background-color: #333;
+    color: #aaa;
+    font-size: 14px;
+}
+
+.separator {
+    margin: 0 6px;
+}

@@ -1,0 +1,29 @@
+html,
+body {
+  font-family: "Microsoft Yahei", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+  background-color: #eee;
+}
+
+.container {
+  width: 1240px;
+  margin: 0 auto;
+}
+
+a {
+  color: #00a67c;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #007046;
+  cursor: pointer;
+}
+
+p {
+    color: #777;
+    font-size: 14px;
+    line-height: 24px;
+    font-style: normal;
+}

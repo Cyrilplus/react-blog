@@ -1,0 +1,37 @@
+$themeColor: #D56464;
+.article {
+  padding: 10px 15px 10px 15px;
+  background-color: #fff;
+  min-height: 200px;
+}
+
+.title {
+  display: inline-block;
+  margin: 0 0 0 10px;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.img {
+  width: 200px;
+  height: 123px;
+  float: left;
+}
+
+.excerpt {
+  margin-left: 215px;
+  margin-bottom: 0;
+}
+
+.author-info {
+  clear: both;
+  float: right;
+}
+
+.icon {
+  margin-right: 10px;
+}
+
+.themeColor {
+  color: $themeColor;
+}

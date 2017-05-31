@@ -1,0 +1,38 @@
+@import url('http://cdn.webfont.youziku.com/webfonts/nomal/23142/45803/59254f06f629d8137c241a39.css');
+@import url('http://cdn.webfont.youziku.com/webfonts/nomal/23142/45803/59255045f629d8137c241a3d.css');
+
+.header {
+  background-color: #D56464;
+  color: #fff;
+  height: 100px;
+  text-align: center;
+  text-shadow: 0 0 1px rgba(94, 255, 216, 0.8);
+}
+
+.title {
+  display: inline-block;
+  font-family: 'LiDeBiao-Xing3adee5f7ca5a66';
+  font-size: 54px;
+  letter-spacing: -2px;
+  line-height: 100px;
+  transition: .2s;
+  cursor: pointer;
+}
+
+.title:hover {
+  letter-spacing: 2px;
+}
+
+.sub-title {
+  display: inline-block;
+  font-family: 'LiDeBiao-Xing3adeead7985a66';
+  font-size: 24px;
+  margin-left: 10px;
+  letter-spacing: 0px;
+  transition: .2s;
+  cursor: pointer;
+}
+
+.sub-title:hover {
+  letter-spacing: 2px;
+}
