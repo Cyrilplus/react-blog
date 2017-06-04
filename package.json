@@ -16,8 +16,14 @@
   "license": "MIT",
   "dependencies": {
     "classnames": "^2.2.5",
+    "draft-js": "^0.10.1",
+    "draft-js-hashtag-plugin": "^2.0.0-rc2",
+    "draft-js-linkify-plugin": "^2.0.0-rc2",
+    "draft-js-markdown-shortcuts-plugin": "^0.2.2",
+    "draft-js-plugins-editor": "^2.0.0-beta1",
     "history": "^4.6.1",
     "moment": "^2.18.1",
+    "node-sass": "^4.5.3",
     "prop-types": "^15.5.10",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
@@ -49,7 +55,7 @@
     "sass-loader": "^6.0.5",
     "style-loader": "^0.18.1",
     "url-loader": "^0.5.8",
-    "webpack": "^2.6.0",
+    "webpack": "^2.6.1",
     "webpack-dev-server": "^2.4.5"
   }
 }

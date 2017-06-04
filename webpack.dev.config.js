@@ -34,7 +34,7 @@ module.exports = {
                 exclude: `${__dirname}/src/styles`,
                 loader: 'style-loader!css-loader?modules!sass-loader'
             }, {
-                test: /\.(gif|jpg|jpeg|png|woff|svg|eot|ttf)\??.*$/,
+                test: /\.(gif|jpg|jpeg|png|ico|woff|svg|eot|ttf)\??.*$/,
                 loader: 'url-loader?limit=50000&name=[path][name].[ext]'
             }
         ]

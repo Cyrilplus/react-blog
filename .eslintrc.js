@@ -31,5 +31,6 @@ module.exports = {
         "indent": [2, 4],
         "space-before-function-paren": [0, "always"],//函数定义时括号前面要不要有空格
         "semi": [2, "always"],//语句强制分号结尾,
+        "react/prop-types": 0
     }
 };

@@ -20,7 +20,7 @@ class Bulletin extends Component {
                 </div>
                 <div className={styles.systemtool}>
                     <span className='icon-share'><Link to='/'>&nbsp;投稿</Link></span>
-                    <span className='icon-user'><Link to='/'>&nbsp;登录</Link></span>
+                    <span className='icon-user'><Link to='/admin'>&nbsp;登录</Link></span>
                 </div>
             </div>
         );
